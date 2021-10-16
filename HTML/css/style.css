@@ -1,0 +1,114 @@
+.nav-bar {
+    background-color: #ff333d;
+    width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+.home1 {
+    background-size: 100%;
+    width: 1000px;
+    margin :auto ;
+    padding: 20px;
+    background-image: url(https://i0.wp.com/ittelkom-pwt.ac.id/wp-content/uploads/2021/08/WhatsApp-Image-2021-08-25-at-18.25.36-rotated.jpeg?fit=1280%2C681&ssl=1);
+}
+.nav-bwh {
+    background-color: #ff333d;
+    width: 1000px;
+    margin: auto;
+    padding: 20px;
+
+}
+
+body {
+    background-color: #8c8c8c;
+}
+#h2atas {
+    font-size: 20px;
+    margin: auto;   
+    color: white;
+    text-align: center;
+}
+#tbl1 {
+    width: 110%;
+    padding-right: 200px;
+    
+}
+#pencarian {
+    width: 120%;
+    background-color: whitesmoke;
+}
+#h1kn {
+    width: 540px;
+    background-color:#999999;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    
+}
+#h2kn {
+    width: 200px;
+    background-color: #999999;
+    padding: 10px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.home2 {
+    width: 850px;
+    background-color: white;
+    margin: auto;
+    padding: 18px;
+}
+#tbl2 {
+    width: 100%;
+}
+#h2 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#gmbr1 {
+    image-resolution: 100%;
+}
+#tbl3 {
+    width: 100%;
+}
+#h3 {
+    background-color: red;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+#h123{
+    padding: 10px;
+    margin: auto;
+    width: 70%;
+    background-color:#ff333d;
+    text-align: center;
+    color: white;
+}
+#hxx1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color:white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: black;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color:white;
+    background-color: transparent;
+    text-decoration: underline;
+  }
